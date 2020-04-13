@@ -4,7 +4,7 @@ SQL Scripts to generate DBML - Database Markup Language to be used in dbdiagram.
 ## Steps for Use
 - Run script
 -Click on return and open XML output
-- CMD + H or CTRL + H and replace all &gt; for >
+- CMD + H or CTRL + H and replace all \&gt; for >
 - Open dbdiagrams.io and paste code to generate ER Diagram
 
 ## Have Suggestions?
